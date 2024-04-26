@@ -11,6 +11,9 @@ $ pip install -r requirements.txt
 ```
 - Run tests:
 ```bash
+$ python3 server.py
+```
+```bash
 $ pytest
 ```
 
